@@ -33,7 +33,7 @@ Je construis des pipelines de données propres et fiables, de l'extraction jusqu
 | Projet | Ce que ça fait | Stack |
 |---|---|---|
 | [**2ASICYA**](https://github.com/Dauemi/inverter-cyberattack-simulation) · projet de groupe ECE | Simulation de cyberattaques (scénarios S1 à S5) sur les onduleurs solaires d'un réseau électrique français, avec score de risque. **Mon rôle :** dashboard et visualisations des résultats. | Python, pandapower, Pandas |
-| [**FlaskApp**](https://github.com/painkiller20/FlaskApp) | Pipeline CI/CD : tests pytest, puis build et publication de l'image Docker sur Docker Hub si les tests passent, alerte e-mail en cas d'échec. | Flask, pytest, Docker, GitHub Actions |
+| [**FlaskApp**](https://github.com/arthur-bokagne/FlaskApp) | Pipeline CI/CD : tests pytest, puis build et publication de l'image Docker sur Docker Hub si les tests passent, alerte e-mail en cas d'échec. | Flask, pytest, Docker, GitHub Actions |
 | **Pipeline ETL automatisé** | Traitement de plus de 15 000 lignes CSV : nettoyage, normalisation, chargement dans PostgreSQL et contrôles qualité. | Python, Pandas, NumPy, PostgreSQL |
 
 ---
@@ -48,6 +48,7 @@ Je construis des pipelines de données propres et fiables, de l'extraction jusqu
 
 ### 📫 Contact
 
+- 🌐 Portfolio : **[arthur-bokagne.github.io](https://arthur-bokagne.github.io)**
 - LinkedIn : [gilles-arthur-bokagne-kemogne](https://www.linkedin.com/in/gilles-arthur-bokagne-kemogne-0b2502389)
 - E-mail : arthurbokagne@gmail.com
 - 🇫🇷 Français (langue maternelle) · 🇬🇧 Anglais C1
